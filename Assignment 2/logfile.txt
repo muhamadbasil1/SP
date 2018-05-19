@@ -1,0 +1,97 @@
+2018-05-20 02:37:41 Total Qari 132
+2018-05-20 02:37:43 Start Processing 1 out 132
+2018-05-20 02:37:43 abdul_basit_murattal/
+2018-05-20 02:37:44 abdul_basit_murattal/ 112.mp3 START
+2018-05-20 02:37:46 abdul_basit_murattal/ 112.mp3 END
+2018-05-20 02:37:47 abdul_basit_murattal/ 113.mp3 START
+2018-05-20 02:37:50 abdul_basit_murattal/ 113.mp3 END
+2018-05-20 02:37:51 abdul_basit_murattal/ 114.mp3 START
+2018-05-20 02:37:54 abdul_basit_murattal/ 114.mp3 END
+2018-05-20 02:37:54 Merging the Files of abdul_basit_murattal/ START
+2018-05-20 02:37:54 Merging the Files of abdul_basit_murattal/ END
+2018-05-20 02:37:55 Start Processing 2 out 132
+2018-05-20 02:37:55 abdul_muhsin_alqasim/
+2018-05-20 02:37:56 abdul_muhsin_alqasim/ 113.mp3 START
+2018-05-20 02:37:58 abdul_muhsin_alqasim/ 113.mp3 END
+2018-05-20 02:38:00 abdul_muhsin_alqasim/ 114.mp3 START
+2018-05-20 02:38:02 abdul_muhsin_alqasim/ 114.mp3 END
+2018-05-20 02:38:03 abdul_muhsin_alqasim/ Dua.mp3 START
+2018-05-20 02:39:02 abdul_muhsin_alqasim/ Dua.mp3 END
+2018-05-20 02:39:02 Merging the Files of abdul_muhsin_alqasim/ START
+2018-05-20 02:39:08 Merging the Files of abdul_muhsin_alqasim/ END
+2018-05-20 02:39:10 Start Processing 3 out 132
+2018-05-20 02:39:10 abdul_wadood_haneef_rare/
+2018-05-20 02:39:12 abdul_wadood_haneef_rare/ 112.mp3 START
+2018-05-20 02:39:15 abdul_wadood_haneef_rare/ 112.mp3 END
+2018-05-20 02:39:16 abdul_wadood_haneef_rare/ 113.mp3 START
+2018-05-20 02:39:19 abdul_wadood_haneef_rare/ 113.mp3 END
+2018-05-20 02:39:21 abdul_wadood_haneef_rare/ 114.mp3 START
+2018-05-20 02:39:23 abdul_wadood_haneef_rare/ 114.mp3 END
+2018-05-20 02:39:23 Merging the Files of abdul_wadood_haneef_rare/ START
+2018-05-20 02:39:23 Merging the Files of abdul_wadood_haneef_rare/ END
+2018-05-20 02:39:25 Start Processing 4 out 132
+2018-05-20 02:39:25 abdulazeez_al-ahmad/
+2018-05-20 02:39:26 abdulazeez_al-ahmad/ 113.mp3 START
+2018-05-20 02:39:28 abdulazeez_al-ahmad/ 113.mp3 END
+2018-05-20 02:39:29 abdulazeez_al-ahmad/ 114.mp3 START
+2018-05-20 02:39:32 abdulazeez_al-ahmad/ 114.mp3 END
+2018-05-20 02:39:33 Merging the Files of abdulazeez_al-ahmad/ START
+2018-05-20 02:39:34 Merging the Files of abdulazeez_al-ahmad/ END
+2018-05-20 02:39:36 Start Processing 5 out 132
+2018-05-20 02:39:36 abdulaziz_bin_saleh_alzahrani/
+2018-05-20 02:39:38 abdulaziz_bin_saleh_alzahrani/ 112.mp3 START
+2018-05-20 02:39:39 abdulaziz_bin_saleh_alzahrani/ 112.mp3 END
+2018-05-20 02:39:40 abdulaziz_bin_saleh_alzahrani/ 113.mp3 START
+2018-05-20 02:39:42 abdulaziz_bin_saleh_alzahrani/ 113.mp3 END
+2018-05-20 02:39:44 abdulaziz_bin_saleh_alzahrani/ 114.mp3 START
+2018-05-20 02:39:46 abdulaziz_bin_saleh_alzahrani/ 114.mp3 END
+2018-05-20 02:39:46 Merging the Files of abdulaziz_bin_saleh_alzahrani/ START
+2018-05-20 02:39:46 Merging the Files of abdulaziz_bin_saleh_alzahrani/ END
+2018-05-20 02:39:47 Start Processing 6 out 132
+2018-05-20 02:39:47 abdulbaset_mujawwad/
+2018-05-20 02:39:49 abdulbaset_mujawwad/ 113.mp3 START
+2018-05-20 02:39:52 abdulbaset_mujawwad/ 113.mp3 END
+2018-05-20 02:39:53 abdulbaset_mujawwad/ 114.mp3 START
+2018-05-20 02:39:56 abdulbaset_mujawwad/ 114.mp3 END
+2018-05-20 02:39:56 Merging the Files of abdulbaset_mujawwad/ START
+2018-05-20 02:39:57 Merging the Files of abdulbaset_mujawwad/ END
+2018-05-20 02:39:58 Start Processing 7 out 132
+2018-05-20 02:39:58 abdulbaset_warsh/
+2018-05-20 02:39:59 abdulbaset_warsh/ 113.mp3 START
+2018-05-20 02:40:01 abdulbaset_warsh/ 113.mp3 END
+2018-05-20 02:40:03 abdulbaset_warsh/ 114.mp3 START
+2018-05-20 02:40:05 abdulbaset_warsh/ 114.mp3 END
+2018-05-20 02:40:06 abdulbaset_warsh/ Dua.mp3 START
+2018-05-20 02:40:24 abdulbaset_warsh/ Dua.mp3 END
+2018-05-20 02:40:24 Merging the Files of abdulbaset_warsh/ START
+2018-05-20 02:40:24 Merging the Files of abdulbaset_warsh/ END
+2018-05-20 02:40:25 Start Processing 8 out 132
+2018-05-20 02:40:25 abdulbaset_with_naeem_sultan_pickthall/
+2018-05-20 02:40:27 abdulbaset_with_naeem_sultan_pickthall/ 112.mp3 START
+2018-05-20 02:40:28 abdulbaset_with_naeem_sultan_pickthall/ 112.mp3 END
+2018-05-20 02:40:30 abdulbaset_with_naeem_sultan_pickthall/ 113.mp3 START
+2018-05-20 02:40:32 abdulbaset_with_naeem_sultan_pickthall/ 113.mp3 END
+2018-05-20 02:40:33 abdulbaset_with_naeem_sultan_pickthall/ 114.mp3 START
+2018-05-20 02:40:35 abdulbaset_with_naeem_sultan_pickthall/ 114.mp3 END
+2018-05-20 02:40:35 Merging the Files of abdulbaset_with_naeem_sultan_pickthall/ START
+2018-05-20 02:40:35 Merging the Files of abdulbaset_with_naeem_sultan_pickthall/ END
+2018-05-20 02:40:37 Start Processing 9 out 132
+2018-05-20 02:40:37 abdulbasit_w_ibrahim_walk_si/
+2018-05-20 02:40:38 abdulbasit_w_ibrahim_walk_si/ 112.mp3 START
+2018-05-20 02:40:42 abdulbasit_w_ibrahim_walk_si/ 112.mp3 END
+2018-05-20 02:40:43 abdulbasit_w_ibrahim_walk_si/ 113.mp3 START
+2018-05-20 02:40:48 abdulbasit_w_ibrahim_walk_si/ 113.mp3 END
+2018-05-20 02:40:49 abdulbasit_w_ibrahim_walk_si/ 114.mp3 START
+2018-05-20 02:40:58 abdulbasit_w_ibrahim_walk_si/ 114.mp3 END
+2018-05-20 02:40:58 Merging the Files of abdulbasit_w_ibrahim_walk_si/ START
+2018-05-20 02:40:58 Merging the Files of abdulbasit_w_ibrahim_walk_si/ END
+2018-05-20 02:40:59 Start Processing 10 out 132
+2018-05-20 02:40:59 abdulkareem_al_hazmi/
+2018-05-20 02:41:01 abdulkareem_al_hazmi/ 112.mp3 START
+2018-05-20 02:41:03 abdulkareem_al_hazmi/ 112.mp3 END
+2018-05-20 02:41:04 abdulkareem_al_hazmi/ 113.mp3 START
+2018-05-20 02:41:07 abdulkareem_al_hazmi/ 113.mp3 END
+2018-05-20 02:41:09 abdulkareem_al_hazmi/ 114.mp3 START
+2018-05-20 02:41:12 abdulkareem_al_hazmi/ 114.mp3 END
+2018-05-20 02:41:12 Merging the Files of abdulkareem_al_hazmi/ START
+2018-05-20 02:41:12 Merging the Files of abdulkareem_al_hazmi/ END
